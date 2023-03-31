@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677644776 source:d:\programming\graphicaleditor\main.c
+	<stdio.h>
+	<stdlib.h>
+

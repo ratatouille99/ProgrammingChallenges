@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677042522 source:d:\programming\thetrip\main.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+

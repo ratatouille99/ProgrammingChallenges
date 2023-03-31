@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1679115845 source:d:\programming\nuevopunto\main.cpp
+	<iostream>
+	"Punto.h"
+
+1679115581 d:\programming\nuevopunto\punto.h
+
+1679115581 source:d:\programming\nuevopunto\src\punto.cpp
+	"Punto.h"
+

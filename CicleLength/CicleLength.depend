@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676302974 source:d:\programming\ciclelength\main.cpp
+	<iostream>
+	<algorithm>
+
